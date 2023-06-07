@@ -18,3 +18,12 @@ git push -u origin main
 
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
+
+
+git add README.md
+git commit -m "first commit"
+git push -u origin main
+
+
+git config --global user.name "mi nombre"
+git config --global user.email "myemail@example.com"
