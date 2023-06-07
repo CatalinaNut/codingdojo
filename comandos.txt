@@ -1,4 +1,5 @@
 HOLA JAVIER!!!!
+HOLA CATAAA!!!!
 …or create a new repository on the command line
 
 echo "# codingdojo" >> README.md
